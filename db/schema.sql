@@ -1,6 +1,3 @@
-### Schema
-
-USE bu6ctoqananbh7ah;
 
 CREATE TABLE burgers
 (
